@@ -10,6 +10,6 @@ I'm a I am a highly motivated individual studying data science. I have good stat
 
 
 ## 🚀 Languages and Tools
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BinuraRanasingha)](https://github.com/anuraghazra/github-readme-stats)
 
 
