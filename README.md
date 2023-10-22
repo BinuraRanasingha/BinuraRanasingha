@@ -13,7 +13,9 @@ I'm a I am a highly motivated individual studying data science. I have good stat
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinuraRanasingha&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools
-![image](https://github.com/BinuraRanasingha/BinuraRanasingha/assets/88581953/69cdc7e7-3278-453f-a249-060f87cb3746)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg width=40 height=40"/>&nbsp;
+</div>
 
 
 
