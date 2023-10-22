@@ -1,4 +1,4 @@
-### Hi, I'm Binura Ranasingha 👋
+# Hi, I'm Binura Ranasingha 👋
 
 
 ## 🙋‍♂️ About me:
