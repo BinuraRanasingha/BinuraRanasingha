@@ -43,15 +43,6 @@ I'm a I am a highly motivated individual studying data science. I have good stat
   <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
-  
-  
- 
-  
-  
-  
-  
-  
-  
   <img src="https://logowik.com/content/uploads/images/firebase.jpg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" width="80" height="80"/>&nbsp;
   
