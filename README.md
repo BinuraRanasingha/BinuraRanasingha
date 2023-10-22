@@ -10,4 +10,5 @@ I'm a I am a highly motivated individual studying data science. I have good stat
 
 
 ## 🚀 Languages and Tools
-![image](https://github.com/BinuraRanasingha/BinuraRanasingha/assets/88581953/fc08a05c-8956-4d0f-8a16-a6c75b88b20e)
+![image](https://github.com/BinuraRanasingha/BinuraRanasingha/assets/88581953/e92dd6fe-a552-4449-ad17-781ffbee3f77)
+
