@@ -14,6 +14,7 @@ I'm a I am a highly motivated individual studying data science. I have good stat
 
 ## Languages and Tools
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://octave.org/img/octave-logo.png" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width="40" height="40"/>&nbsp;
