@@ -10,4 +10,4 @@ I'm a I am a highly motivated individual studying data science. I have good stat
 
 
 ## 🚀 Languages and Tools
-https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
