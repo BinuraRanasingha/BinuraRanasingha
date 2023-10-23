@@ -12,6 +12,8 @@ I'm a I am a highly motivated individual studying data science. I have good stat
 ## 🚀 Mostly used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinuraRanasingha&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
+![Binura's GitHub stats](https://github-readme-stats.vercel.app/api?username=BinuraRanasingha&show_icons=true&theme=radical)
+
 ## Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/>&nbsp;
