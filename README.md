@@ -9,7 +9,7 @@ I'm a I am a highly motivated individual studying data science. I have good stat
 - ⚡ Fun fact: I like to play games.
 
 ## 🚀 Mostly used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinuraRanasingha&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Binura's GitHub stats](https://github-readme-stats.vercel.app/api?username=BinuraRanasingha&show_icons=true&theme=radical)
 
