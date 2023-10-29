@@ -30,7 +30,6 @@ I'm a I am a highly motivated individual studying data science. I have good stat
   <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" width="40" height="40"/>&nbsp;
   <img src="https://pypi-camo.global.ssl.fastly.net/b86b2758380b6bc7cbdf4ff97fda9826a3b74aa2/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f7363696b69742d6c6561726e2f7363696b69742d6c6561726e2f6d61696e2f646f632f6c6f676f732f7363696b69742d6c6561726e2d6c6f676f2e706e67" height="40" width="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png" width="41" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>&nbsp;
 </a>
 </div>
 
