@@ -15,6 +15,7 @@ I'm a I am a highly motivated individual studying data science. I have good stat
 
 ## Recently Used Languages, Tools, and Technologies
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://streamlit.io/sharing-image-facebook.jpg" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
@@ -22,7 +23,6 @@ I'm a I am a highly motivated individual studying data science. I have good stat
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60"/>&nbsp;
   <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" width="50" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://pypi-camo.global.ssl.fastly.net/e04fcdcd86e25efd2d53f9dd07e2e57e95969f4b/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f73636970792f73636970792f6d61696e2f646f632f736f757263652f5f7374617469632f6c6f676f2e737667" width="40" height="40"/>&nbsp;
   <img src="https://miro.medium.com/v2/resize:fit:964/1*2fD9qRIlRAJay7D5NK3yEA.png" width="65" height="40"/>&nbsp;
