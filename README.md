@@ -15,7 +15,7 @@ I'm a I am a highly motivated individual studying data science. I have good stat
 
 ## Recently Used Languages, Tools, and Technologies
 <div>
-  <img src="https://streamlit.io/sharing-image-facebook.jpg" width="70" height="70"/>&nbsp;
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="70" height="70"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png" width="40" height="40"/>&nbsp;
