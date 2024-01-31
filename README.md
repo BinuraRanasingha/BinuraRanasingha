@@ -32,7 +32,6 @@ I'm a I am a highly motivated individual studying data science. I have good stat
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" width="40" height="40"/>&nbsp;
   <img src="https://miro.medium.com/v2/resize:fit:964/1*2fD9qRIlRAJay7D5NK3yEA.png" width="65" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>&nbsp;
 </a>
 </div>
 
