@@ -15,6 +15,7 @@ I'm a I am a highly motivated individual studying data science. I have good stat
 
 ## Recently Used Languages, Tools, and Technologies
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" width="40" height="40"/>&nbsp;
   <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" width="40" height="40"/>&nbsp;
