@@ -15,6 +15,7 @@ I am a highly motivated individual who has completed a bachelor’s degree in da
 
 ## Recently Used Languages, Tools, and Technologies
 <div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" width="40" height="40"/>&nbsp;
   <img src="https://miro.medium.com/v2/resize:fit:964/1*2fD9qRIlRAJay7D5NK3yEA.png" width="50" height="40"/>&nbsp;
   <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>&nbsp;
@@ -24,7 +25,6 @@ I am a highly motivated individual who has completed a bachelor’s degree in da
   <img src="https://logowik.com/content/uploads/images/azure-data-factory2539.jpg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="40" height="40"/>&nbsp;
@@ -32,8 +32,6 @@ I am a highly motivated individual who has completed a bachelor’s degree in da
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/2367px-Notepad%2B%2B_Logo.svg.png" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
-  
-  
 </a>
 </div>
 
